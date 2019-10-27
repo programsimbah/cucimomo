@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: bd1253a683fa7403c802601092c628b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6139718576542344584
+    second: UI (Alam)_0
+  - first:
+      213: 6234804879638885422
+    second: UI (Alam)_1
+  - first:
+      213: 654665216224127694
+    second: UI (Alam)_2
+  - first:
+      213: 8772366479531356463
+    second: UI (Alam)_3
+  - first:
+      213: 3733006881267789738
+    second: UI (Alam)_4
+  - first:
+      213: -5022306262530254442
+    second: UI (Alam)_5
+  - first:
+      213: -3182666423478302650
+    second: UI (Alam)_6
+  - first:
+      213: 5228332531508032822
+    second: UI (Alam)_7
+  - first:
+      213: 5208463782952331602
+    second: UI (Alam)_8
+  - first:
+      213: -4749100855610324175
+    second: UI (Alam)_9
+  - first:
+      213: 3065818644457521259
+    second: UI (Alam)_10
+  - first:
+      213: 4808476279661632137
+    second: UI (Alam)_11
+  - first:
+      213: 4479175570646062703
+    second: UI (Alam)_12
+  - first:
+      213: 7622899074900320776
+    second: UI (Alam)_13
+  - first:
+      213: -6089197465716050622
+    second: UI (Alam)_14
+  - first:
+      213: -4607525116478197249
+    second: UI (Alam)_15
+  - first:
+      213: 5439792999146266328
+    second: UI (Alam)_16
+  - first:
+      213: -5404159354688873209
+    second: UI (Alam)_17
+  - first:
+      213: 6102671938065972180
+    second: UI (Alam)_18
+  - first:
+      213: -2133770264540587466
+    second: UI (Alam)_19
+  - first:
+      213: -4327014310141177783
+    second: UI (Alam)_20
+  - first:
+      213: -3936298161383468813
+    second: UI (Alam)_21
+  - first:
+      213: -2711560721417205570
+    second: UI (Alam)_22
+  - first:
+      213: -2338147152887143871
+    second: UI (Alam)_23
+  - first:
+      213: 5540775979375625879
+    second: UI (Alam)_24
+  - first:
+      213: 8090694210520664811
+    second: UI (Alam)_25
+  - first:
+      213: -4341579559888619329
+    second: UI (Alam)_26
+  - first:
+      213: -642173801422895000
+    second: UI (Alam)_27
+  - first:
+      213: -2765491829933445267
+    second: UI (Alam)_28
+  - first:
+      213: -3352886732419716178
+    second: UI (Alam)_29
+  - first:
+      213: -4290955949468155000
+    second: UI (Alam)_30
+  - first:
+      213: 551488991909045017
+    second: UI (Alam)_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI (Alam)_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 980
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba363380879f40368850e4f5a0fc12b
+      internalID: -6139718576542344584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 959
+        width: 176
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0c2396a58134a5681e58620c26ce0d
+      internalID: 6234804879638885422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1023
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b9e4ee50074f1da7272551d3dd865
+      internalID: 654665216224127694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1023
+        width: 426
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e2acb1874964daf8afb3ff13d0820e
+      internalID: 8772366479531356463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 918
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b195a83f13c4ce5a631f75a8f9f5eb
+      internalID: 3733006881267789738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 916
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502d5e0c4ab5e407b985f0ec44c128e2
+      internalID: -5022306262530254442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 909
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86959e6d92399436aab239a4b043a0ad
+      internalID: -3182666423478302650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 911
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d3339e93464e94bda4f32e3c0d686
+      internalID: 5228332531508032822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 749
+        width: 279
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d354ae681c475bb2f9dd6801f20b3
+      internalID: 5208463782952331602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 838
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2235ffa02150d42a8bba0044217612a7
+      internalID: -4749100855610324175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 730
+        width: 426
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e1f9ad376648029752770c0dadc10
+      internalID: 3065818644457521259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 527
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f825866da04661b5ab6a5ccfe6c9c
+      internalID: 4808476279661632137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 528
+        width: 134
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8619c71a2a4875ab15d531c689e5e
+      internalID: 4479175570646062703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 547
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0a0036492243e393ca483953498d6
+      internalID: 7622899074900320776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 494
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee438397c7b194c39ad7c5fdc94e36cb
+      internalID: -6089197465716050622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_15
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 505
+        width: 243
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e761ce7f8474e7ba097f20cad15da1
+      internalID: -4607525116478197249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 455
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ce13306b3a4f71a4d1847b2038f46
+      internalID: 5439792999146266328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 405
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f78eefb46244c094a7906e7812ea0
+      internalID: -5404159354688873209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd7e3a56eb2741e5801c0f4c616ad7b
+      internalID: 6102671938065972180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 369
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d7ccfb180f467ba48712bc9f45c94
+      internalID: -2133770264540587466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 369
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab919e2392c24e62b2ab8bfb2740cc4
+      internalID: -4327014310141177783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872eca4d638ae414591a5183bfb9ea00
+      internalID: -3936298161383468813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_22
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 247
+        width: 184
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623d5951d13548f08b4251daa5ed29c
+      internalID: -2711560721417205570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_23
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 272
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63276e14a43d4c37bbccb175a1d7d5f
+      internalID: -2338147152887143871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_24
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 271
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43261ca693b48b2bb0a7ed6279107d
+      internalID: 5540775979375625879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 249
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995888877cfa741f2b3a0b8a78a6492b
+      internalID: 8090694210520664811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_26
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 312
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94dbe6235e348319dc1457beca9c7f
+      internalID: -4341579559888619329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 249
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f202a86bc94aad928a18944d94777
+      internalID: -642173801422895000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 145
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22fd82dbe834a7e823c83b2147236d
+      internalID: -2765491829933445267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_29
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 40
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b67245e427c4d5aac66c80937087cd
+      internalID: -3352886732419716178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_30
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 96
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da8ecaf05218409cb674efe2609a7af
+      internalID: -4290955949468155000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI (Alam)_31
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 23
+        width: 140
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c20c1c88a624035aae58cf1a4023f7
+      internalID: 551488991909045017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
