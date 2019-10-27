@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 7c2795bd78a1a2543abd2f2824b3a788
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CleanStains
+    21300002: Fuel
+    21300004: WheelBrush
+    21300006: Bubbles
+    21300008: Polisher
+    21300010: Wax
+    21300012: InflateTires
+    21300014: CleanLeaves
+    21300016: WashDirt
+    21300018: CutBranches
+    21300020: StarsBG
+    21300022: StarEmpty
+    21300024: Star
+    21300026: Arrow
+    21300028: ArrowOn
+    21300030: ArrowOff
+    21300032: ButtonBG
+    21300034: CleanBubbles
+    21300036: lock
+    21300038: hand
+    21300040: UITexture2_0
+    21300042: Bubblche
+    21300044: GiftBtnHolder
+    21300046: GasPedal
+    21300048: NumberHolder
+    21300050: ProgressSpriteHolder
+    21300052: ProgressSprite
+    21300054: 500Stars
+    21300056: 1000Stars
+    21300058: UnlockAll
+    21300060: dailyReward1
+    21300062: dailyReward2
+    21300064: dailyReward3
+    21300066: dailyReward4
+    21300068: dailyReward5
+    21300070: dailyReward6
+    21300072: speed meter BG
+    21300074: pointer
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 4
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: CleanStains
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 909
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fuel
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 907
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WheelBrush
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 881
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bubbles
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 890
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Polisher
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 894
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wax
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 792
+        width: 155
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InflateTires
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 768
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CleanLeaves
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 746
+        width: 139
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WashDirt
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 757
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CutBranches
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 737
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StarsBG
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 956
+        width: 266
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StarEmpty
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 892
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 892
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 792
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArrowOn
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 702
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArrowOff
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 613
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonBG
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 794
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CleanBubbles
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 634
+        width: 132
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lock
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 672
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hand
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 635
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UITexture2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 649
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bubblche
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 638
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GiftBtnHolder
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 637
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GasPedal
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 591
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NumberHolder
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 550
+        width: 272
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 114, y: 0, z: 108, w: 0}
+    - name: ProgressSpriteHolder
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 695
+        width: 223
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProgressSprite
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 668
+        width: 215
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 500Stars
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 433
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1000Stars
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 433
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnlockAll
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 433
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dailyReward1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dailyReward2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 293
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dailyReward3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 293
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dailyReward4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 141
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dailyReward5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 141
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dailyReward6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 141
+        width: 112
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: speed meter BG
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 536
+        width: 151
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pointer
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 567
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

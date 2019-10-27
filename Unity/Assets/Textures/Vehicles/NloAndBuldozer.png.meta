@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 239a12e596863dd4dba9338dafbd5f38
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NLO
+    21300002: NLO2
+    21300004: Buldozer_0
+    21300006: Buldozer_1
+    21300008: Buldozer_2
+    21300010: Tire
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 33
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: NLO
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 750
+        width: 531
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NLO2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 763
+        width: 293
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Buldozer_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 559
+        height: 403
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Buldozer_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 559
+        width: 563
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Buldozer_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 7
+        width: 358
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tire
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 304
+        width: 220
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

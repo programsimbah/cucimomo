@@ -1,0 +1,57 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-2916
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=437 outsize=1183 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4279 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4279 outsize=1242 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2255 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2255 outsize=1542 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1783 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1783 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3996 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3996 outsize=1152 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=437 outsize=12645 ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (32): Unrecognized #pragma directive: shader_feature
+  insize=3529 outsize=906 ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (32): Unrecognized #pragma directive: shader_feature
+  api=4 type=0 insize=2924 outsize=1250 kw=_ ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (32): Unrecognized #pragma directive: shader_feature
+  api=4 type=1 insize=2924 outsize=1932 kw=_ ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (32): Unrecognized #pragma directive: shader_feature
+  api=4 type=0 insize=2924 outsize=1680 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (32): Unrecognized #pragma directive: shader_feature
+  api=4 type=1 insize=2924 outsize=1932 kw=PIXELSNAP_ON ok=1
+Cmd: preprocess
+  error: 1 plat 12 at (33): Unrecognized #pragma directive: shader_feature
+  insize=2903 outsize=831 ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (33): Unrecognized #pragma directive: shader_feature
+  api=4 type=0 insize=2294 outsize=1250 kw=_ ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (33): Unrecognized #pragma directive: shader_feature
+  api=4 type=1 insize=2294 outsize=16850 kw=_ ok=1
+Cmd: preprocess
+  insize=2788 outsize=796 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2296 outsize=1250 kw=_ ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2296 outsize=16850 kw=_ ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2296 outsize=1680 kw=PIXELSNAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2296 outsize=16850 kw=PIXELSNAP_ON ok=1

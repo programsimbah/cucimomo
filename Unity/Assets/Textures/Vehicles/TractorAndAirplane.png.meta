@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 129ca70fd212e0d468a96f46df64945b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tractor_0
+    21300002: Tire
+    21300004: Airplane
+    21300006: AirplaneWheel
+    21300008: elisa1
+    21300010: elisaR1
+    21300012: elisaR2
+    21300014: elisaR3
+    21300016: TractorAndAirplane_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 33
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Tractor_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 501
+        width: 701
+        height: 515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tire
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 719
+        width: 297
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Airplane
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 59
+        width: 674
+        height: 394
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AirplaneWheel
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 24
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elisa1
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 344
+        width: 44
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elisaR1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 123
+        width: 77
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elisaR2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 123
+        width: 77
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elisaR3
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 123
+        width: 77
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TractorAndAirplane_2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 123
+        width: 77
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

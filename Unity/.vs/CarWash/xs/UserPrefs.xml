@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{AC571AE1-6935-7555-7162-8A68B8D2D9B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gameplay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gameplay.cs" Line="217" Column="40" />
+      <File FileName="Assets/Scripts/CleaningTools/GasPump.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/HomeScene.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/ItemsSlider.cs" Line="493" Column="4" />
+      <File FileName="Assets/Scripts/Menu/MenuManager.cs" Line="304" Column="19" />
+      <File FileName="Assets/Scripts/LevelTransition.cs" Line="6" Column="14" />
+      <File FileName="Assets/Scripts/MoveVehicle.cs" Line="202" Column="71" />
+      <File FileName="Assets/Scripts/GameData.cs" Line="50" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

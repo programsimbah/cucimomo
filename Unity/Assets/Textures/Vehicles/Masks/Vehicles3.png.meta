@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: fcdf55074d71bb24db4ca0d7ac33e71b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MonsterTruck
+    21300002: SandTruck
+    21300004: CraneTruck
+    21300006: CraneTruck
+    21300008: SchoolBus
+    21300010: Tractor
+    21300012: SportsCar
+    21300014: CableTruck
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 33
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: MonsterTruck
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1316
+        width: 1019
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -60}
+        - {x: -45, y: -38}
+        - {x: 19, y: -33}
+        - {x: 14, y: -68}
+        - {x: 16, y: -93}
+        - {x: 22, y: -117}
+        - {x: 39, y: -148}
+        - {x: 88, y: -177}
+        - {x: 154, y: -177}
+        - {x: 170, y: -172}
+        - {x: 196, y: -154}
+        - {x: 216, y: -133}
+        - {x: 234, y: -96}
+        - {x: 230, y: -47}
+        - {x: 217, y: -19}
+        - {x: 193, y: 11}
+        - {x: 213, y: -10}
+        - {x: 233, y: -9}
+        - {x: 253, y: -1}
+        - {x: 255, y: 9}
+        - {x: 255, y: 63}
+        - {x: 219, y: 93}
+        - {x: 162, y: 114}
+        - {x: 142, y: 115}
+        - {x: 146, y: 164}
+        - {x: 138, y: 177}
+        - {x: 126, y: 177}
+        - {x: 118, y: 163}
+        - {x: 116, y: 122}
+        - {x: 44, y: 170}
+        - {x: 12, y: 177}
+        - {x: -1, y: 177}
+        - {x: -39, y: 175}
+        - {x: -143, y: 147}
+        - {x: -200, y: 140}
+        - {x: -217, y: 177}
+        - {x: -235, y: 177}
+        - {x: -255, y: 169}
+        - {x: -255, y: 151}
+        - {x: -245, y: 113}
+        - {x: -255, y: 93}
+        - {x: -255, y: 41}
+        - {x: -253, y: 25}
+        - {x: -226, y: 8}
+        - {x: -218, y: 8}
+        - {x: -202, y: 25}
+        - {x: -207, y: 17}
+        - {x: -235, y: -6}
+        - {x: -254, y: -36}
+        - {x: -255, y: -63}
+        - {x: -255, y: -97}
+        - {x: -246, y: -119}
+        - {x: -221, y: -154}
+        - {x: -188, y: -175}
+        - {x: -180, y: -177}
+        - {x: -125, y: -177}
+        - {x: -114, y: -176}
+        - {x: -85, y: -165}
+        - {x: -50, y: -130}
+        - {x: -38, y: -102}
+    - name: SandTruck
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1490
+        width: 860
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -132.5}
+        - {x: 11, y: -132.5}
+        - {x: 25, y: -97.5}
+        - {x: 21, y: -77.5}
+        - {x: 20, y: -73.5}
+        - {x: 100, y: -132.5}
+        - {x: 158, y: -132.5}
+        - {x: 181, y: -104.5}
+        - {x: 216, y: -94.5}
+        - {x: 216, y: 35.5}
+        - {x: 187, y: 104.5}
+        - {x: 69, y: 105.5}
+        - {x: 67, y: 94.5}
+        - {x: 56, y: 68.5}
+        - {x: 55, y: 64.5}
+        - {x: 55, y: 66.5}
+        - {x: 56, y: 67.5}
+        - {x: 56, y: 70.5}
+        - {x: 57, y: 71.5}
+        - {x: 59, y: 77.5}
+        - {x: 64, y: 95.5}
+        - {x: 67, y: 107.5}
+        - {x: 110, y: 114.5}
+        - {x: 117, y: 127.5}
+        - {x: 114, y: 132.5}
+        - {x: 16, y: 132.5}
+        - {x: -159, y: 106.5}
+        - {x: -210, y: 104.5}
+        - {x: -215, y: 31.5}
+        - {x: -215, y: -86.5}
+        - {x: -190, y: -122.5}
+        - {x: -165, y: -132.5}
+        - {x: -125, y: -132.5}
+        - {x: -113, y: -126.5}
+        - {x: -96, y: -105.5}
+    - name: CableTruck
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 979
+        width: 820
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -119}
+        - {x: 10, y: -115}
+        - {x: 28, y: -91}
+        - {x: 26, y: -64}
+        - {x: 97, y: -118}
+        - {x: 101, y: -119}
+        - {x: 148, y: -119}
+        - {x: 174, y: -93}
+        - {x: 206, y: -77}
+        - {x: 206, y: 25}
+        - {x: 181, y: 90}
+        - {x: 165, y: 101}
+        - {x: 72, y: 100}
+        - {x: 54, y: 65}
+        - {x: 47, y: 74}
+        - {x: 28, y: 77}
+        - {x: 28, y: 120}
+        - {x: -81, y: 120}
+        - {x: -135, y: 111}
+        - {x: -183, y: 106}
+        - {x: -199, y: 85}
+        - {x: -205, y: 54}
+        - {x: -205, y: -12}
+        - {x: -170, y: -21}
+        - {x: -193, y: -39}
+        - {x: -195, y: -62}
+        - {x: -166, y: -110}
+        - {x: -151, y: -119}
+        - {x: -106, y: -119}
+        - {x: -94, y: -117}
+        - {x: -83, y: -95}
+        - {x: -44, y: -119}
+    - name: CraneTruck
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 366
+        width: 820
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -112.5}
+        - {x: 97, y: -144.5}
+        - {x: 173, y: -144.5}
+        - {x: 206, y: -114.5}
+        - {x: 206, y: 25.5}
+        - {x: 204, y: 48.5}
+        - {x: 176, y: 69.5}
+        - {x: 84, y: 109.5}
+        - {x: 75, y: 123.5}
+        - {x: -17, y: 144.5}
+        - {x: -92, y: 144.5}
+        - {x: -148, y: 126.5}
+        - {x: -171, y: 87.5}
+        - {x: -171, y: 16.5}
+        - {x: -142, y: 10.5}
+        - {x: -137, y: 27.5}
+        - {x: -139, y: 32.5}
+        - {x: -139, y: 85.5}
+        - {x: 31, y: 92.5}
+        - {x: 47, y: 11.5}
+        - {x: -205, y: 9.5}
+        - {x: -205, y: -33.5}
+        - {x: -200, y: -49.5}
+        - {x: -195, y: -88.5}
+        - {x: -173, y: -136.5}
+        - {x: -150, y: -144.5}
+        - {x: -98, y: -144.5}
+        - {x: -76, y: -120.5}
+        - {x: -41, y: -144.5}
+        - {x: 24, y: -144.5}
+    - name: SchoolBus
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 751
+        width: 878
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: -90.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 77.5, y: -104.5}
+        - {x: 97.5, y: -126.5}
+        - {x: 141.5, y: -126.5}
+        - {x: 156.5, y: -116.5}
+        - {x: 165.5, y: -103.5}
+        - {x: 182.5, y: -97.5}
+        - {x: 220.5, y: -91.5}
+        - {x: 220.5, y: -36.5}
+        - {x: 218.5, y: -35.5}
+        - {x: 205.5, y: 6.5}
+        - {x: 196.5, y: 19.5}
+        - {x: 176.5, y: 26.5}
+        - {x: 147.5, y: 26.5}
+        - {x: 152.5, y: 99.5}
+        - {x: 127.5, y: 125.5}
+        - {x: 111.5, y: 127.5}
+        - {x: -150.5, y: 127.5}
+        - {x: -172.5, y: 122.5}
+        - {x: -200.5, y: 94.5}
+        - {x: -208.5, y: 72.5}
+        - {x: -211.5, y: 51.5}
+        - {x: -219.5, y: 6.5}
+        - {x: -219.5, y: -82.5}
+        - {x: -218.5, y: -83.5}
+        - {x: -207.5, y: -93.5}
+        - {x: -174.5, y: -91.5}
+        - {x: -148.5, y: -101.5}
+        - {x: -135.5, y: -119.5}
+        - {x: -126.5, y: -126.5}
+        - {x: -86.5, y: -126.5}
+        - {x: -76.5, y: -124.5}
+        - {x: -65.5, y: -110.5}
+        - {x: -59.5, y: -94.5}
+        - {x: -60.5, y: -88.5}
+    - name: Tractor
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 845
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -115.5}
+        - {x: 50.5, y: -114.5}
+        - {x: 63.5, y: -115.5}
+        - {x: 97.5, y: -164.5}
+        - {x: 112.5, y: -170.5}
+        - {x: 173.5, y: -170.5}
+        - {x: 192.5, y: -156.5}
+        - {x: 209.5, y: -140.5}
+        - {x: 211.5, y: -127.5}
+        - {x: 211.5, y: -81.5}
+        - {x: 210.5, y: -78.5}
+        - {x: 185.5, y: -27.5}
+        - {x: 187.5, y: 39.5}
+        - {x: 179.5, y: 56.5}
+        - {x: 130.5, y: 67.5}
+        - {x: 137.5, y: 116.5}
+        - {x: 123.5, y: 146.5}
+        - {x: 111.5, y: 144.5}
+        - {x: 104.5, y: 135.5}
+        - {x: 59.5, y: 57.5}
+        - {x: 36.5, y: 142.5}
+        - {x: 51.5, y: 151.5}
+        - {x: 49.5, y: 168.5}
+        - {x: 37.5, y: 170.5}
+        - {x: -126.5, y: 170.5}
+        - {x: -125.5, y: 156.5}
+        - {x: -120.5, y: 51.5}
+        - {x: -167.5, y: 22.5}
+        - {x: -191.5, y: -1.5}
+        - {x: -204.5, y: -21.5}
+        - {x: -211.5, y: -34.5}
+        - {x: -211.5, y: -71.5}
+        - {x: -208.5, y: -76.5}
+        - {x: -182.5, y: -124.5}
+        - {x: -159.5, y: -154.5}
+        - {x: -117.5, y: -170.5}
+        - {x: -58.5, y: -170.5}
+        - {x: -44.5, y: -167.5}
+        - {x: -8.5, y: -125.5}
+        - {x: 10.5, y: -83.5}
+        - {x: 12.5, y: -110.5}
+    - name: SportsCar
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 1140
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: -75}
+        - {x: 178, y: -75}
+        - {x: 190, y: -68}
+        - {x: 268, y: -66}
+        - {x: 274, y: -60}
+        - {x: 274, y: -14}
+        - {x: 239, y: 9}
+        - {x: 197, y: 24}
+        - {x: 136, y: 32}
+        - {x: 44, y: 73}
+        - {x: 21, y: 75}
+        - {x: -35, y: 75}
+        - {x: -57, y: 72}
+        - {x: -217, y: 48}
+        - {x: -235, y: 75}
+        - {x: -251, y: 75}
+        - {x: -274, y: 72}
+        - {x: -274, y: -23}
+        - {x: -272, y: -28}
+        - {x: -263, y: -63}
+        - {x: -216, y: -65}
+        - {x: -199, y: -75}
+        - {x: -160, y: -75}
+        - {x: -137, y: -69}
+        - {x: 98, y: -67}
+        - {x: 99, y: -74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

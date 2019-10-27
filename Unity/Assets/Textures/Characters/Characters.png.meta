@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: a4f5b831aee685942a6dfba5153e4132
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BoyCharacter
+    21300002: EyelidBoy
+    21300004: EyelidGirl
+    21300006: EyelidMan
+    21300008: ManCharacter
+    21300010: MouthOpenMan
+    21300012: MouthManClosed
+    21300014: GirlCharacter
+    21300016: GirlMouthOpen
+    21300018: GirlMouthClosed
+    21300020: OpenMouthBoy
+    21300022: MouthClosedBoy
+    21300024: HandPart2
+    21300026: BodyCharacter
+    21300028: Hand2Character
+    21300030: HandPart1
+    21300032: HandGirl
+    21300034: BodyGirl
+    21300036: HandPart1Girl
+    21300038: HandPart2Girl
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 33
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: BoyCharacter
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 670
+        width: 273
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EyelidBoy
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 915
+        width: 193
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EyelidGirl
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 938
+        width: 188
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EyelidMan
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 27
+        width: 172
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ManCharacter
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 170
+        width: 304
+        height: 386
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MouthOpenMan
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 27
+        width: 117
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MouthManClosed
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 39
+        width: 115
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GirlCharacter
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 570
+        width: 320
+        height: 305
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GirlMouthOpen
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 938
+        width: 151
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GirlMouthClosed
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 896
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OpenMouthBoy
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 965
+        width: 121
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MouthClosedBoy
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 928
+        width: 100
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandPart2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 721
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyCharacter
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 476
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand2Character
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 485
+        width: 235
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandPart1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 654
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandGirl
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 235
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyGirl
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 246
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandPart1Girl
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 78
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandPart2Girl
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

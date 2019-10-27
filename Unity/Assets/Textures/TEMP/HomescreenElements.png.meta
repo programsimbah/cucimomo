@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 9e24a3b01a3f498488da1055b6ab4db7
+timeCreated: 1481291041
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sky
+    21300002: HomescreenElements_1
+    21300004: HomescreenElements_2
+    21300006: HomescreenElements_3
+    21300008: Cloud1
+    21300010: Cloud2
+    21300012: Cloud3
+    21300014: WaterEarth
+    21300016: Brisac
+    21300018: CarFilip
+    21300020: LampPost
+    21300022: TreeTop2
+    21300024: FilipLid1
+    21300026: FilipLid2
+    21300028: Tree
+    21300030: Bush1
+    21300032: Bush2
+    21300034: WaterSprite3
+    21300036: TreeTop1
+    21300038: Garage
+    21300040: WaterSprite2
+    21300042: WaterSprite1
+    21300044: Stain1
+    21300046: Fence
+    21300048: Stain2
+    21300050: HomescreenBottom
+    21300052: StarPlayBtn
+    21300054: HomescreenElements_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 33
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Sky
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 699
+        width: 163
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 161}
+        - {x: -81.5, y: -161}
+        - {x: 81.5, y: -161}
+        - {x: 81.5, y: 161}
+    - name: HomescreenElements_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 964
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19}
+        - {x: -20.5, y: -14}
+        - {x: -17.5, y: -19}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: 9}
+        - {x: 13.5, y: 19}
+    - name: HomescreenElements_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 959
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: HomescreenElements_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 962
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 12}
+        - {x: 15, y: 16}
+        - {x: 12, y: 19}
+        - {x: -18, y: 19}
+        - {x: -25, y: 4}
+        - {x: -25, y: -9}
+        - {x: -11, y: -19}
+        - {x: 17, y: -19}
+        - {x: 25, y: -3}
+        - {x: 25, y: 16}
+        - {x: 23, y: 16}
+    - name: Cloud1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 958
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 29}
+        - {x: -23.5, y: 29}
+        - {x: -54.5, y: 16}
+        - {x: -54.5, y: -29}
+        - {x: 54.5, y: -29}
+        - {x: 54.5, y: 14}
+        - {x: 52.5, y: 22}
+    - name: Cloud2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 948
+        width: 137
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 36.5}
+        - {x: -21.5, y: 36.5}
+        - {x: -64.5, y: 17.5}
+        - {x: -68.5, y: 7.5}
+        - {x: -68.5, y: -16.5}
+        - {x: -63.5, y: -26.5}
+        - {x: -33.5, y: -36.5}
+        - {x: 36.5, y: -36.5}
+        - {x: 57.5, y: -33.5}
+        - {x: 68.5, y: -17.5}
+        - {x: 68.5, y: 18.5}
+        - {x: 64.5, y: 28.5}
+    - name: Cloud3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 963
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 29}
+        - {x: -24.5, y: 29}
+        - {x: -54.5, y: 24}
+        - {x: -54.5, y: -25}
+        - {x: -38.5, y: -29}
+        - {x: 36.5, y: -29}
+        - {x: 54.5, y: -19}
+        - {x: 54.5, y: 6}
+    - name: WaterEarth
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 947
+        width: 334
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152, y: 32}
+        - {x: -167, y: 10}
+        - {x: -167, y: -29}
+        - {x: -156, y: -32}
+        - {x: 154, y: -32}
+        - {x: 167, y: -31}
+        - {x: 167, y: 0}
+        - {x: 124, y: 32}
+    - name: Brisac
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 837
+        width: 6
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CarFilip
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 716
+        width: 338
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169, y: 3.5}
+        - {x: 152, y: 22.5}
+        - {x: 134, y: 81.5}
+        - {x: 121, y: 93.5}
+        - {x: 95, y: 105.5}
+        - {x: 77, y: 108.5}
+        - {x: -8, y: 108.5}
+        - {x: -58, y: 97.5}
+        - {x: -84, y: 69.5}
+        - {x: -103, y: 61.5}
+        - {x: -101, y: 46.5}
+        - {x: -159, y: 25.5}
+        - {x: -169, y: 14.5}
+        - {x: -169, y: -63.5}
+        - {x: -164, y: -77.5}
+        - {x: -137, y: -103.5}
+        - {x: 16, y: -104.5}
+        - {x: 48, y: -108.5}
+        - {x: 98, y: -108.5}
+        - {x: 115, y: -76.5}
+        - {x: 163, y: -62.5}
+        - {x: 169, y: -57.5}
+    - name: LampPost
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 339
+        width: 50
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 52.5}
+        - {x: -25, y: -14.5}
+        - {x: -14, y: -52.5}
+        - {x: 20, y: -52.5}
+        - {x: 25, y: -30.5}
+        - {x: 25, y: 41.5}
+        - {x: 13, y: 52.5}
+    - name: FilipLid1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 811
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: FilipLid2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 773
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tree
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 718
+        width: 456
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -33.5}
+        - {x: -47, y: -97.5}
+        - {x: -42, y: -109.5}
+        - {x: 48, y: -109.5}
+        - {x: 68, y: -58.5}
+        - {x: 101, y: -50.5}
+        - {x: 59, y: -109.5}
+        - {x: 156, y: -109.5}
+        - {x: 158, y: -108.5}
+        - {x: 228, y: -32.5}
+        - {x: 228, y: 58.5}
+        - {x: 164, y: 109.5}
+        - {x: 86, y: 109.5}
+        - {x: 61, y: 101.5}
+        - {x: 17, y: 109.5}
+        - {x: -97, y: 109.5}
+        - {x: -203, y: 93.5}
+        - {x: -228, y: 35.5}
+        - {x: -228, y: -53.5}
+        - {x: -163, y: -71.5}
+        - {x: -155, y: -105.5}
+        - {x: -146, y: -109.5}
+        - {x: -85, y: -109.5}
+        - {x: -80, y: -98.5}
+        - {x: -107, y: -53.5}
+        - {x: -34, y: 7.5}
+    - name: WaterSprite3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 621
+        width: 173
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 36}
+        - {x: -78.5, y: 36}
+        - {x: -82.5, y: 34}
+        - {x: -86.5, y: 16}
+        - {x: -86.5, y: -36}
+        - {x: -31.5, y: -36}
+        - {x: -28.5, y: -29}
+        - {x: 86.5, y: -7}
+        - {x: 86.5, y: 11}
+    - name: Garage
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 452
+        width: 553
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -129}
+        - {x: 92.5, y: -127}
+        - {x: 171.5, y: -124}
+        - {x: 213.5, y: -118}
+        - {x: 216.5, y: -114}
+        - {x: 215.5, y: -111}
+        - {x: 205.5, y: -106}
+        - {x: 175.5, y: -94}
+        - {x: 177.5, y: -80}
+        - {x: 181.5, y: -26}
+        - {x: 189.5, y: 22}
+        - {x: 199.5, y: 119}
+        - {x: 196.5, y: 123}
+        - {x: 188.5, y: 126}
+        - {x: 150.5, y: 129}
+        - {x: -91.5, y: 129}
+        - {x: -160.5, y: 126}
+        - {x: -190.5, y: 126}
+        - {x: -196.5, y: 106}
+        - {x: -191.5, y: 95}
+        - {x: -227.5, y: 94}
+        - {x: -256.5, y: 90}
+        - {x: -260.5, y: 88}
+        - {x: -259.5, y: 72}
+        - {x: -253.5, y: 40}
+        - {x: -257.5, y: 26}
+        - {x: -252.5, y: 18}
+        - {x: -235.5, y: -73}
+        - {x: -242.5, y: -84}
+        - {x: -262.5, y: -109}
+        - {x: -276.5, y: -114}
+        - {x: -276.5, y: -119}
+        - {x: -269.5, y: -122}
+        - {x: -251.5, y: -120}
+        - {x: -235.5, y: -129}
+        - {x: -201.5, y: -129}
+        - {x: -192.5, y: -128}
+        - {x: -160.5, y: -125}
+        - {x: -147.5, y: -129}
+      - - {x: 241.5, y: -122}
+        - {x: 240.5, y: -124}
+        - {x: 241.5, y: -127}
+        - {x: 256.5, y: -127}
+        - {x: 258.5, y: -126}
+        - {x: 258.5, y: -123}
+        - {x: 257.5, y: -122}
+      - - {x: 263.5, y: -124}
+        - {x: 265.5, y: -127}
+        - {x: 275.5, y: -127}
+        - {x: 276.5, y: -126}
+        - {x: 276.5, y: -121}
+        - {x: 266.5, y: -121}
+    - name: WaterSprite2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 538
+        width: 171
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 38}
+        - {x: -85.5, y: 38}
+        - {x: -85.5, y: -36}
+        - {x: -78.5, y: -38}
+        - {x: -9.5, y: -38}
+        - {x: 85.5, y: -4}
+        - {x: 85.5, y: 19}
+        - {x: 81.5, y: 36}
+    - name: WaterSprite1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 451
+        width: 171
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 40}
+        - {x: -85.5, y: -40}
+        - {x: 20.5, y: -40}
+        - {x: 85.5, y: -25}
+        - {x: 85.5, y: 8}
+        - {x: -11.5, y: 40}
+    - name: Stain1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 403
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 23.5}
+        - {x: -24, y: 23.5}
+        - {x: -34, y: 9.5}
+        - {x: -35, y: 8.5}
+        - {x: -35, y: -4.5}
+        - {x: -28, y: -17.5}
+        - {x: -8, y: -23.5}
+        - {x: 20, y: -23.5}
+        - {x: 35, y: -0.5}
+        - {x: 35, y: 10.5}
+        - {x: 31, y: 14.5}
+    - name: Fence
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 351
+        width: 534
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 227, y: 36.5}
+        - {x: -208, y: 36.5}
+        - {x: -264, y: 28.5}
+        - {x: -267, y: 27.5}
+        - {x: -267, y: -32.5}
+        - {x: -265, y: -34.5}
+        - {x: -263, y: -35.5}
+        - {x: -66, y: -36.5}
+        - {x: 267, y: -36.5}
+        - {x: 267, y: 23.5}
+        - {x: 247, y: 35.5}
+      - - {x: -267, y: 36.5}
+        - {x: -267, y: 33.5}
+        - {x: -265, y: 33.5}
+        - {x: -263, y: 35.5}
+        - {x: -263, y: 36.5}
+    - name: Stain2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -24, y: 13}
+        - {x: -23, y: 9}
+        - {x: -19, y: 5}
+        - {x: -33, y: 13}
+        - {x: -42, y: 10}
+        - {x: -42, y: -4}
+        - {x: -25, y: -16}
+        - {x: 2, y: -25}
+        - {x: 32, y: -25}
+        - {x: 42, y: -21}
+        - {x: 42, y: 17}
+        - {x: 15, y: 25}
+    - name: HomescreenBottom
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 1007
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 497.5, y: 138}
+        - {x: 493.5, y: 143}
+        - {x: 490.5, y: 144}
+        - {x: 483.5, y: 144}
+        - {x: 482.5, y: 143}
+        - {x: 478.5, y: 142}
+        - {x: 476.5, y: 140}
+        - {x: 473.5, y: 140}
+        - {x: 472.5, y: 141}
+        - {x: 450.5, y: 142}
+        - {x: 447.5, y: 144}
+        - {x: 446.5, y: 157}
+        - {x: 445.5, y: 158}
+        - {x: 445.5, y: 160}
+        - {x: 442.5, y: 163}
+        - {x: 439.5, y: 163}
+        - {x: 434.5, y: 161}
+        - {x: 434.5, y: 158}
+        - {x: 433.5, y: 156}
+        - {x: 431.5, y: 156}
+        - {x: 429.5, y: 154}
+        - {x: 429.5, y: 150}
+        - {x: 428.5, y: 149}
+        - {x: 424.5, y: 149}
+        - {x: 420.5, y: 147}
+        - {x: 419.5, y: 145}
+        - {x: 416.5, y: 145}
+        - {x: 415.5, y: 146}
+        - {x: 412.5, y: 146}
+        - {x: 410.5, y: 148}
+        - {x: 409.5, y: 150}
+        - {x: 404.5, y: 150}
+        - {x: 402.5, y: 147}
+        - {x: 390.5, y: 147}
+        - {x: 389.5, y: 148}
+        - {x: 378.5, y: 148}
+        - {x: 377.5, y: 149}
+        - {x: 355.5, y: 150}
+        - {x: 354.5, y: 151}
+        - {x: 338.5, y: 151}
+        - {x: 337.5, y: 152}
+        - {x: 323.5, y: 152}
+        - {x: 322.5, y: 153}
+        - {x: 311.5, y: 153}
+        - {x: 310.5, y: 154}
+        - {x: 299.5, y: 154}
+        - {x: 298.5, y: 155}
+        - {x: 287.5, y: 155}
+        - {x: 286.5, y: 156}
+        - {x: 275.5, y: 156}
+        - {x: 274.5, y: 157}
+        - {x: 261.5, y: 157}
+        - {x: 260.5, y: 158}
+        - {x: 247.5, y: 158}
+        - {x: 246.5, y: 159}
+        - {x: 233.5, y: 159}
+        - {x: 232.5, y: 160}
+        - {x: 216.5, y: 160}
+        - {x: 215.5, y: 161}
+        - {x: 199.5, y: 161}
+        - {x: 198.5, y: 162}
+        - {x: 180.5, y: 162}
+        - {x: 179.5, y: 163}
+        - {x: 158.5, y: 163}
+        - {x: 157.5, y: 164}
+        - {x: 133.5, y: 164}
+        - {x: 132.5, y: 165}
+        - {x: -149.5, y: 165}
+        - {x: -150.5, y: 164}
+        - {x: -175.5, y: 164}
+        - {x: -176.5, y: 163}
+        - {x: -198.5, y: 163}
+        - {x: -199.5, y: 162}
+        - {x: -218.5, y: 162}
+        - {x: -219.5, y: 161}
+        - {x: -254.5, y: 160}
+        - {x: -255.5, y: 159}
+        - {x: -269.5, y: 159}
+        - {x: -270.5, y: 158}
+        - {x: -284.5, y: 158}
+        - {x: -285.5, y: 157}
+        - {x: -304.5, y: 157}
+        - {x: -305.5, y: 156}
+        - {x: -307.5, y: 157}
+        - {x: -308.5, y: 156}
+        - {x: -327.5, y: 156}
+        - {x: -328.5, y: 155}
+        - {x: -335.5, y: 155}
+        - {x: -337.5, y: 156}
+        - {x: -338.5, y: 155}
+        - {x: -347.5, y: 155}
+        - {x: -348.5, y: 154}
+        - {x: -350.5, y: 155}
+        - {x: -351.5, y: 154}
+        - {x: -366.5, y: 154}
+        - {x: -367.5, y: 153}
+        - {x: -386.5, y: 153}
+        - {x: -387.5, y: 152}
+        - {x: -401.5, y: 152}
+        - {x: -402.5, y: 151}
+        - {x: -417.5, y: 151}
+        - {x: -418.5, y: 150}
+        - {x: -445.5, y: 149}
+        - {x: -446.5, y: 148}
+        - {x: -457.5, y: 148}
+        - {x: -458.5, y: 147}
+        - {x: -484.5, y: 146}
+        - {x: -485.5, y: 145}
+        - {x: -489.5, y: 145}
+        - {x: -490.5, y: 144}
+        - {x: -493.5, y: 144}
+        - {x: -494.5, y: 143}
+        - {x: -503.5, y: 143}
+        - {x: -503.5, y: -165}
+        - {x: 503.5, y: -165}
+        - {x: 503.5, y: 137}
+        - {x: 501.5, y: 138}
+      - - {x: 500.5, y: 143}
+        - {x: 502.5, y: 141}
+        - {x: 503.5, y: 141}
+        - {x: 503.5, y: 161}
+        - {x: 500.5, y: 160}
+    - name: StarPlayBtn
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 909
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 17.5}
+    - name: HomescreenElements_0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 603
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 40.5}
+        - {x: -40.5, y: 28.5}
+        - {x: -40.5, y: -24.5}
+        - {x: -23.5, y: -40.5}
+        - {x: 26.5, y: -40.5}
+        - {x: 40.5, y: -26.5}
+        - {x: 40.5, y: 38.5}
+        - {x: 33.5, y: 40.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

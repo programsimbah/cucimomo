@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 557f6f8421d669b4cba6c768bfff1329
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: salon_bg
+    21300002: lift
+    21300004: platform
+    21300006: salonFG
+    21300008: gear1
+    21300010: Salon2048Bg_2
+    21300012: Salon2048Bg_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 4
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: salon_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 2048
+        height: 1065
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lift
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 357
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 276
+        width: 1438
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: salonFG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 2048
+        height: 537
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gear1
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 359
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Salon2048Bg_2
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 14
+        width: 23
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Salon2048Bg_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 1098
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

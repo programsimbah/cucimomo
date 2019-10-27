@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: dce7a13f12c5f994f98eec6763b5ecf3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gas_pump
+    21300002: gas_pump_nozzle_1
+    21300004: fuelTankOpened
+    21300006: gas_pump_mask
+    21300008: gas_pump_nozzle_4
+    21300010: crevoBenzin
+    21300012: gas_pump_nozzle_6
+    21300014: gas_pump_nozzle_7
+    21300016: gas_pump_nozzle_8
+    21300018: gas_pump_nozzle_9
+    21300020: gas_pump_nozzle_10
+    21300022: gas_pump_nozzle_11
+    21300024: cloth1
+    21300026: cloth2
+    21300028: cloth3
+    21300030: cloth4
+    21300032: sponge
+    21300034: brush
+    21300036: leafBlower
+    21300038: waterSpray1
+    21300040: polisher
+    21300042: polisher_brush1
+    21300044: polisher_brush2
+    21300046: shears2
+    21300048: shears1
+    21300050: crevo_vrh
+    21300052: wax
+    21300054: compressor
+    21300056: waterSpray2
+    21300058: waterSpray3
+    21300060: wheelBrush_head
+    21300062: wheelBrush1
+    21300064: wheelBrush2
+    21300066: air
+    21300068: crevo
+    21300070: crevo2
+    21300072: fuelTankClosed
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gas_pump
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 886
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 901
+        width: 637
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fuelTankOpened
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 768
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_mask
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 763
+        width: 232
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 743
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crevoBenzin
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 740
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 740
+        width: 106
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 832
+        width: 229
+        height: 25
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 792
+        width: 229
+        height: 29
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 756
+        width: 234
+        height: 24
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 612
+        width: 157
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gas_pump_nozzle_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 654
+        width: 674
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloth1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 480
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloth2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 477
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloth3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 482
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloth4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 487
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sponge
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 464
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brush
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 474
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leafBlower
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 338
+        width: 340
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: waterSpray1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 229
+        width: 249
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: polisher
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 244
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: polisher_brush1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 112
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: polisher_brush2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shears2
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 329
+        width: 165
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shears1
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 264
+        width: 176
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crevo_vrh
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 615
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wax
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 479
+        width: 187
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: compressor
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 252
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: waterSpray2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 118
+        width: 247
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: waterSpray3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 247
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wheelBrush_head
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 142
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: .610904455, y: .582484543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wheelBrush1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2
+        width: 116
+        height: 130
+      alignment: 9
+      pivot: {x: .613192856, y: .553608716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wheelBrush2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 5
+        width: 122
+        height: 130
+      alignment: 9
+      pivot: {x: .650743306, y: .547200799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: air
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 224
+        width: 121
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crevo
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 613
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crevo2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 613
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
